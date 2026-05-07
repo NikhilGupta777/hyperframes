@@ -99,3 +99,5 @@ ab-test/
 compositions/
 video-6-2-patched/
 claude-design-hyperframes-video/
+temp_auto_push.bat
+temp_interactive_push.bat
